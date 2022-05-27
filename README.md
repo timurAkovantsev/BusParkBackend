@@ -1,3 +1,3 @@
 Приложение для хранения информации о автобусах.
-Клиентская часть: 
-Серверная часть:
+Клиентская часть: https://github.com/timurAkovantsev/-BusParkMobile
+Серверная часть: https://github.com/timurAkovantsev/BusParkBackend
